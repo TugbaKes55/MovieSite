@@ -14,7 +14,7 @@
 - CSS3
 - JavaScript
 
-# ScreenShot
+# Preview
 
 ![](Movie.gif)
 
