@@ -8,7 +8,7 @@
 - Font Family: By using the Google Font feature, the fonts have a pleasant appearance.
 - Responsive Layout: A responsive structure was established using Flexbox ve Media Tags techniques. In this way, a compatible appearance is provided even on different screen sizes.
 
-# Used Technologies:
+# Used Technologies
 
 - HTML5
 - CSS3
