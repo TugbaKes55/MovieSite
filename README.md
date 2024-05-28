@@ -2,7 +2,7 @@
 
 - This movie website I designed attracts attention with its color transitions and hover feature. 
 - It allows switching between movies with the Slider feature I provided using JavaScript.
-- The color of the site can be updated by clicking the button in the profile section.
+- The color of the site can be updated by clicking the icon in the profile section.
 - Semantic Element: This codes are provided easy for the browser and developer to understand.
 - Color Transitions: Color transitions are provided by using CSS and transition properties. These transitions add a modern and fluid atmosphere to the site.
 - Font Family: By using the Google Font feature, the fonts have a pleasant appearance.
